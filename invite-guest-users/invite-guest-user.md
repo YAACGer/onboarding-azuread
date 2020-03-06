@@ -11,7 +11,7 @@ If you want to know how you can invite guest users in the Azure Portal have a lo
 
 If you want to know how you can invite guest users with PowerShell have a look at [Quickstart: Add a guest user with PowerShell](https://docs.microsoft.com/azure/active-directory/b2b/b2b-quickstart-invite-powershell)
 
-## restrict access to Azure AD resources for gest users
+## Limit access to Azure AD resources for guest users
 
 In many cases you don't want that a guest user can browse your AzureAD resources like users and groups.
 [Here](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) you can find an overview of the default permissions in Azure AD.
